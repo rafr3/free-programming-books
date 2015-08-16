@@ -25,4 +25,4 @@
 
 
 ### php
-* [Tutorial Ebook PHP](http://adf.ly/1847642/http://www.4shared.com/rar/CtmMQ24E/Ebook_Tutorial_PHP.html)
+* [Tutorial Ebook PHP](http://www.4shared.com/rar/CtmMQ24E/Ebook_Tutorial_PHP.html)
