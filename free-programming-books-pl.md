@@ -13,6 +13,7 @@
 * [Prolog](#prolog)
 * [Python](#python)
 * [Ruby](#ruby)
+* [Scala](#scala)
 * [SQL](#sql)
 
 
@@ -66,6 +67,10 @@
 * [Nie za krótkie wprowadzeniedo systemu LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/polish)
 
 
+### Node.js
+* [Nodeschool](http://nodeschool.io/pl)
+
+
 ### PHP
 * [PHP](http://pl.wikibooks.org/wiki/PHP)
 * [PHP: The Right Way](http://pl.phptherightway.com/)
@@ -84,6 +89,8 @@
 ### Ruby
 * [Ruby](http://pl.wikibooks.org/wiki/Ruby)
 
+### Scala
+* [Język programowania Scala](http://www.grzegorzbalcerek.net/jps2/index.html)
 
 ### SQL
 * [SQL i PL/SQL – podstawy](http://jsystems.pl/storage/sqlplsql1.pdf)

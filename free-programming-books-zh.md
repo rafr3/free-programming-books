@@ -185,6 +185,7 @@
 * [PHP5中文手册](http://php.net/manual/zh/)
 * [PHP扩展开发及内核应用](http://www.walu.cc/phpbook/preface.md)
 * [Symfony2 实例教程](http://wusuopu.gitbooks.io/symfony2_tutorial/content)
+* [PHP 之道](http://wulijun.github.io/php-the-right-way/)
 
 
 ### Python
@@ -240,6 +241,7 @@
 
 ### Vim
 * [大家來學 VIM](http://www.study-area.org/tips/vim/index.html)
+* [Vim Manual(中文版)](http://man.chinaunix.net/newsoft/vi/doc/help.html)
 
 
 ### Visual Prolog
